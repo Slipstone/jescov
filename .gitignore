@@ -1,0 +1,10 @@
+.DS_Store
+/build
+prj.el
+build.properties
+/.idea
+*.iml
+/out
+lib/jescov*.jar
+src/main/generated/java
+target
