@@ -8,3 +8,7 @@ build.properties
 lib/jescov*.jar
 src/main/generated/java
 target
+bin
+bin-test
+lib
+

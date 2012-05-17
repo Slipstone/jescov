@@ -39,10 +39,10 @@ The grammar was kept as close as possible to the grammar in the "A Grammar Summa
 */
 
 grammar ES3Instrument ;
-
+ 
 options
-{
-	output = template ;
+{  
+	output = template ; 
 	rewrite = true;
 	language = Java ;
 }
